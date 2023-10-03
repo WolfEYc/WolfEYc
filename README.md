@@ -6,5 +6,5 @@
 - [Bunny-Bouquet](https://wolfeycs.itch.io/bunny-bouquet)
 
 ## Fullstack Webapps
-[wolfeycode](https://www.wolfeycode.com/)
-[fuelquote](https://fuelquote.vercel.app/registrationPage)
+- [wolfeycode](https://www.wolfeycode.com/)
+- [fuelquote](https://fuelquote.vercel.app/registrationPage)
