@@ -1,6 +1,6 @@
 ## Python Packages
-- [polarcle](https://pypi.org/project/polarcle/)
-- [async-db-polars](https://pypi.org/project/async-db-polars/)
+- [polarcle](https://pypi.org/project/polarcle/) Polars Dataframe integration with Oracle
+- [async-db-polars](https://pypi.org/project/async-db-polars/) Polars Dataframe integration with Postgres
 ## Fullstack Webapps
 - [wolfeycode](https://www.wolfeycode.com/)
 - [fuelquote](https://fuelquote.vercel.app/registrationPage)
